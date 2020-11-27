@@ -1,1 +1,1 @@
-# ds4craftbeer
+# data science for craft beer
